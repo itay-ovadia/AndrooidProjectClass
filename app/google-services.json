@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "798786859546",
+    "firebase_url": "https://ifit-mobile-app-default-rtdb.firebaseio.com",
+    "project_id": "ifit-mobile-app",
+    "storage_bucket": "ifit-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798786859546:android:5b59afc20324cabfa797a3",
+        "android_client_info": {
+          "package_name": "com.example.androoidprojectclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfydOwLIqVF6PmyoKAMCGHsqPN9lNq1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
